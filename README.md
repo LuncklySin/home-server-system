@@ -2,7 +2,8 @@
 
 **家政服务系统** 是一个集 **家政服务预约、社区互动、公告发布、在线咨询、意见反馈** 于一体的数字化平台，旨在为用户提供便捷、高效、安全的家政服务。平台提供多种家政服务，如月嫂、保洁、育婴师、护理等，助力家庭实现更好的生活质量。通过在线预约与咨询功能，用户可以快速找到适合的服务人员并进行互动。
 
-<img width="1245" height="684" alt="Snipaste_2025-07-29_14-24-12" src="https://github.com/user-attachments/assets/48966ab4-1943-4b3f-bb28-5c304addbe92" />
+<img width="1276" height="675" alt="Snipaste_2025-07-29_14-20-27" src="https://github.com/user-attachments/assets/47f1cf5b-a801-4bbd-8b96-ddd4fc71671f" />
+
 <img width="1245" height="684" alt="Snipaste_2025-07-29_14-24-12" src="https://github.com/user-attachments/assets/f1e9eef8-5b72-4acd-955b-b5f0c04393cc" />
 
 
